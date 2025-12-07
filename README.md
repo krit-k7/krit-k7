@@ -64,13 +64,13 @@
 ## 📫 Let's Connect:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-krit-giri" target="_blank">
+  <a href="https://www.linkedin.com/in/krit-giri" target="_blank">
     <img width="100" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/your-krit_k7" target="_blank">
+  <a href="https://www.instagram.com/krit_k7" target="_blank">
     <img width="133" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a> 
-  <a href="https://www.x.com/your-krit_giri" target="_blank">
+  <a href="https://www.x.com/krit_giri" target="_blank">
     <img width="57" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </p>
