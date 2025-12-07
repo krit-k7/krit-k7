@@ -83,7 +83,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ## 🍥 Extras:
-
 - 😄 Fun fact: *I break my code more than I fix it, but I still enjoy coding!*  
 - 💭 I learn faster when my code errors 😆  
 - 🔍 Always curious, always learning something new
