@@ -90,7 +90,7 @@
 
 
 <p align="center">
-  ⭐ Thanks for visiting! Feel free to check out my repositories!
+  ⭐ Thanks for visiting:) Feel free to check out my repositories!
 </p>
 
 
