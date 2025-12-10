@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there! I'm Krit 🧑‍💻</h1>
 
 <p align="center">
-  🌟 Aspiring Full-Stack Developer | AIML Learner  
+  🌟 Aspiring Full-Stack Developer | AIML Learner | 
 </p>
 
 <p align="center">
