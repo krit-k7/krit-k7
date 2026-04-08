@@ -85,7 +85,7 @@
 ## 🍥 Extras:
 - 😄 Fun fact: *I break my code more than I fix it, but I still enjoy coding!*  
 - 💭 I learn faster when my code errors;)  
-- 🔍 Always curious, always learning something new.
+- 🔍 Always curious, always learning something new
 
 
 
