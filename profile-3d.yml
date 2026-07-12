@@ -1,0 +1,83 @@
+<svg viewBox="0 0 1000 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#05060A"/>
+      <stop offset="55%" stop-color="#0B0E1A"/>
+      <stop offset="100%" stop-color="#12081F"/>
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00E5FF"/>
+      <stop offset="100%" stop-color="#A78BFA"/>
+    </linearGradient>
+    <linearGradient id="sheenGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.07"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="gridPattern" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#1b2030" stroke-width="1"/>
+    </pattern>
+    <clipPath id="roundedClip">
+      <rect width="1000" height="260" rx="18"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#roundedClip)">
+    <rect width="1000" height="260" fill="url(#bgGrad)"/>
+    <rect width="1000" height="260" fill="url(#gridPattern)" opacity="0.55"/>
+
+    <!-- large faint watermark glyph -->
+    <text x="878" y="185" font-family="Menlo, Consolas, monospace" font-size="150" fill="url(#accentGrad)" opacity="0.06" text-anchor="middle">&lt;/&gt;</text>
+
+    <!-- shimmer sweep -->
+    <rect x="-320" y="0" width="320" height="260" fill="url(#sheenGrad)">
+      <animate attributeName="x" from="-320" to="1000" dur="6s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- floating particles -->
+    <circle cx="120" cy="55" r="2" fill="#00E5FF" opacity="0.6">
+      <animate attributeName="cy" values="55;38;55" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="880" cy="205" r="2.4" fill="#A78BFA" opacity="0.55">
+      <animate attributeName="cy" values="205;186;205" dur="5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="945" cy="55" r="1.7" fill="#00E5FF" opacity="0.5">
+      <animate attributeName="cy" values="55;74;55" dur="3.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="55" cy="210" r="1.9" fill="#A78BFA" opacity="0.5">
+      <animate attributeName="cy" values="210;192;210" dur="4.6s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- terminal window -->
+    <rect x="60" y="42" width="880" height="176" rx="12" fill="#0A0C14" stroke="#232838" stroke-width="1.5"/>
+    <rect x="60" y="42" width="880" height="34" rx="12" fill="#12151f"/>
+    <rect x="60" y="64" width="880" height="12" fill="#12151f"/>
+    <circle cx="86" cy="59" r="6" fill="#FF5F56"/>
+    <circle cx="108" cy="59" r="6" fill="#FFBD2E"/>
+    <circle cx="130" cy="59" r="6" fill="#27C93F"/>
+    <text x="500" y="63" text-anchor="middle" fill="#5a6272" font-family="Menlo, Consolas, monospace" font-size="13">krit@dev ~ %</text>
+
+    <!-- terminal lines, sequential reveal -->
+    <text x="86" y="108" font-family="Menlo, Consolas, monospace" font-size="17" fill="#00E5FF" opacity="0">
+      $ whoami
+      <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.3s" fill="freeze"/>
+    </text>
+    <text x="86" y="138" font-family="Menlo, Consolas, monospace" font-size="17" fill="#e6e9f0" opacity="0">
+      Krit — full-stack developer, always mid-build
+      <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.1s" fill="freeze"/>
+    </text>
+    <text x="86" y="168" font-family="Menlo, Consolas, monospace" font-size="17" fill="#00E5FF" opacity="0">
+      $ status --current
+      <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="2.1s" fill="freeze"/>
+    </text>
+    <text x="86" y="198" font-family="Menlo, Consolas, monospace" font-size="17" fill="#A78BFA" opacity="0">
+      shipping code, breaking things, learning fast
+      <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="3.0s" fill="freeze"/>
+    </text>
+
+    <!-- blinking cursor after last line -->
+    <rect x="560" y="185" width="10" height="18" fill="#A78BFA" opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0" dur="1s" begin="3.4s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
