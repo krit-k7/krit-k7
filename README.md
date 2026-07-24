@@ -8,9 +8,15 @@
   🚀 Passionate about coding, exploring modern web technologies & building impactful projects.
 </p>
 
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=krit-k7&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
 </p>
+
+<h1 align="center">Hey There👋🏻 It's Me! Krit 😁</h1>
+
+<img src="https://github.com/user-attachments/assets/7db7b7c6-81b2-4789-972b-86bdc223f2fe" />
 
 ---
 
