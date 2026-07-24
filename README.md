@@ -111,21 +111,22 @@
 </p>
 
 ---
+## ☕ Support
 
-## 💭 Random Dev Quote
+If you like my work, consider giving ⭐ to my repositories.
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula"/>
 </p>
 
----
+<p align="center"><b>⭐ Turning ideas into intelligent products through AI, Machine Learning, and Scalable Software Engineering.</b></p>
 
-## 🍥 Fun Facts
-
-- 😄 I break my code more than I fix it.
-- 💡 Every bug teaches me something new.
-- 🚀 Always learning, always building.
-
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=100&section=footer"/>
+</p>
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula"/>
+</p>
 ---
 
 <p align="center">
