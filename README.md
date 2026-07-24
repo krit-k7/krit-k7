@@ -69,11 +69,11 @@
 
 ---
 
-## 🏆 Top Contributed Repositories
+<!-- Snake Game Repo View -->
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=krit-k7&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-</p>
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
