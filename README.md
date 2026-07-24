@@ -70,6 +70,7 @@
 ---
 
 ## 📊 GitHub Analytics
+
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=krit-7&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&rank_icon=github)
@@ -81,6 +82,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=krit-k7&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=donut)
 
 </div>
+
 ---
 
 <!-- Snake Game Repo View -->
