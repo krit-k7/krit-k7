@@ -124,9 +124,7 @@ If you like my work, consider giving ⭐ to my repositories.
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=100&section=footer"/>
 </p>
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula"/>
-</p>
+
 ---
 
 <p align="center">
