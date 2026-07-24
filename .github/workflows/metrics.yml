@@ -10,28 +10,28 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
     permissions:
       contents: write
+
     steps:
       - name: General stats
         uses: lowlighter/metrics@latest
-        continue-on-error: true
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          user: krit-k7
           filename: github-metrics/general.svg
-          base: 'header, activity, community, repositories, metadata'
+          base: header,activity,community,repositories,metadata
           plugin_lines: yes
           plugin_lines_sections: base
           config_timezone: Asia/Kolkata
 
       - name: Top languages
         uses: lowlighter/metrics@latest
-        continue-on-error: true
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          user: krit-k7
           filename: github-metrics/languages.svg
-          base: ''
+          base: ""
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_limit: 8
@@ -39,22 +39,22 @@ jobs:
 
       - name: Achievements
         uses: lowlighter/metrics@latest
-        continue-on-error: true
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          user: krit-k7
           filename: github-metrics/achievements.svg
-          base: ''
+          base: ""
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_threshold: C
 
       - name: Coding habits
         uses: lowlighter/metrics@latest
-        continue-on-error: true
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          user: krit-k7
           filename: github-metrics/habits.svg
-          base: ''
+          base: ""
           plugin_habits: yes
           plugin_habits_charts: yes
           plugin_habits_facts: yes
@@ -64,11 +64,11 @@ jobs:
 
       - name: Isometric contribution calendar
         uses: lowlighter/metrics@latest
-        continue-on-error: true
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          user: krit-k7
           filename: github-metrics/isocalendar.svg
-          base: ''
+          base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           config_timezone: Asia/Kolkata
