@@ -1,11 +1,5 @@
 <h1 align="center">👋 Hey there! I'm Krit 🧑‍💻</h1>
 
-<p align="center">
-  🌟 Aspiring Full-Stack Developer • AIML Learner • MERN Enthusiast
-</p>
-<p align="center">
-  🚀 Passionate about coding, exploring modern web technologies & building impactful projects.
-</p>
 
 <img src="https://github.com/user-attachments/assets/7db7b7c6-81b2-4789-972b-86bdc223f2fe" />
 
