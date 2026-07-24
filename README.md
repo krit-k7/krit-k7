@@ -14,15 +14,6 @@
 
 ---
 
-</td>
-<td valign="center" width="60%" align="center">
-
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWdiZnB3eWVkZTF0aGo1ZHJvaHEwaXNmdm1ubWk5emU1d3M5emppOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="460" />
-
-</td>
-
----
-
 ## 🌱 Currently Learning
 
 <p align="left">
@@ -65,12 +56,16 @@
 
 ---
 
-## 📊 GitHub Statistics
+</td>
+<td valign="center" width="60%" align="center">
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=krit-k7&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krit-k7&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWdiZnB3eWVkZTF0aGo1ZHJvaHEwaXNmdm1ubWk5emU1d3M5emppOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="460" />
+
+</td>
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=krit-k7&theme=tokyonight&hide_border=true" />
