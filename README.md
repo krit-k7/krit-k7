@@ -9,9 +9,7 @@
 <a href="mailto:kritgiri2006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/krit-k7"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.instagram.com/krit_k7"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-
-<br/><br/>
-
+<br/>
 <img src="https://komarev.com/ghpvc/?username=krit-k7&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS"/>
 <img src="https://img.shields.io/github/followers/krit-k7?style=for-the-badge&color=4B0082&label=FOLLOWERS&logo=github"/>
 <a href="https://github.com/krit-k7?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-View_All-9370DB?style=for-the-badge&logo=github"/></a>
