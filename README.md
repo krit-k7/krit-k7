@@ -81,6 +81,16 @@
 
 ---
 
+## 📈 Activity Graph
+
+<div align="center">
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=krit-k7&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
