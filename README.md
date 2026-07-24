@@ -3,7 +3,6 @@
 <p align="center">
   🌟 Aspiring Full-Stack Developer • AIML Learner • MERN Enthusiast
 </p>
-
 <p align="center">
   🚀 Passionate about coding, exploring modern web technologies & building impactful projects.
 </p>
