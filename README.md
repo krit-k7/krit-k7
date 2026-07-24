@@ -2,7 +2,20 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Krit%20Giri&fontSize=72&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20ML%20Developer&descAlignY=55&descAlign=50&fontColor=ffffff&animation=fadeIn" alt="Header Banner"/>
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3000&pause=900&color=A855F7&center=true&vCenter=true&width=650&lines=Machine+Learning+Engineer;AI+%7C+Full+Stack+Developer;Open+Source+Contributor;Turning+Ideas+into+Intelligent+Products+%F0%9F%9A%80" alt="Typing Animation"/>
+<br/>
 
+<a href="https://www.linkedin.com/in/krit-giri/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:kritgiri2006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/krit-k7"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.instagram.com/krit_k7"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=krit-k7&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/krit-k7?style=for-the-badge&color=4B0082&label=FOLLOWERS&logo=github"/>
+<a href="https://github.com/krit-k7?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-View_All-9370DB?style=for-the-badge&logo=github"/></a>
+
+<br/>
 
 <img src="https://github.com/user-attachments/assets/7db7b7c6-81b2-4789-972b-86bdc223f2fe" />
 
