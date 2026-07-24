@@ -15,7 +15,7 @@
 ---
 
 </td>
-<td valign="top" width="60%" align="center">
+<td valign="center" width="60%" align="center">
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWdiZnB3eWVkZTF0aGo1ZHJvaHEwaXNmdm1ubWk5emU1d3M5emppOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="460" />
 
