@@ -70,12 +70,6 @@
 ---
 
 ## 📊 GitHub Analytics
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/krit-k7/krit-k7/main/github-metrics/general.svg" width="49%" alt="General GitHub stats: stars, commits, PRs, issues, repos"/>
-<img src="https://streak-stats.demolab.com?user=krit-k7&hide_border=true&background=0D1117&ring=A855F7&fire=8A2BE2&currStreakLabel=A855F7&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E"/>
-</p>
-
 <p align="center">
 <img src="https://raw.githubusercontent.com/krit-k7/krit-k7/main/github-metrics/languages.svg" width="60%" alt="Top languages by recent activity"/>
 </p>
